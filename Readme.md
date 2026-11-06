@@ -1,2 +1,2 @@
-this is just a descriptoin for the repo
+this is just a description for the repo
 
